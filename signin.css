@@ -1,0 +1,75 @@
+.main-body-signin
+{
+    height:100%;
+    width:100%;
+   
+    /*background: linear-gradient(to right, #8e44ad, #c0392b);*/
+    /* Change the hex codes to the desired shades of purple */
+    color: transparent;
+
+    
+    
+ 
+  
+}
+body
+{
+  margin: 0;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    
+}
+
+.form-div
+{
+    margin-bottom: 20%;
+    margin-right: 15%;
+    background: linear-gradient(black);
+    position:fixed;
+    top: 34%;
+    left: 21%;
+    width:90%;
+    height:80%;
+    margin-top: -9em; 
+    margin-left: -15em; 
+    border: 1px solid ;
+    border-color: #ccc;
+    text-align: center;
+    color:#9D9BCD ;
+   
+}
+.right-txt
+{
+    font-weight: bold;
+    text-decoration: none;
+    font-size:30px;
+    color: #9D9BCD;
+    text-align: center;
+}
+.signup-btn
+{
+      height: 25px;
+      width: 150px;
+      border-color:#9D9BCD;
+      cursor: pointer;
+      color: #fff;
+      background-color:#9D9BCD;
+      border-radius: 8px; 
+     /*padding: 10px 10px;*/
+     text-align: center;
+     
+     
+}
+.textfield-align
+{
+     border-radius:8px;
+     border-color: #9D9BCD;
+}
+.label-align
+{
+  font-size: small;
+  text-align: left;
+}
+div{
+ background-color: #fff;
+}
+
